@@ -14,7 +14,7 @@ mentioned below once the download is completed follow the steps.
 
 There are a couple of thing you will need to get started:
 
-1. [Ubuntu][1]
+1. [Ubuntu][1](Remember to download Option 2 - Manual Server Installation)
 1. [Virtual Box][2]
 
 ## Steps:
